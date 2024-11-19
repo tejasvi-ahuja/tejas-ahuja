@@ -11,7 +11,6 @@ A passionate cybersecurity and data privacy enthusiast with a background in digi
 📌 My goal is to leverage GitHub as a platform to share projects, collaborate with like-minded professionals, and contribute to open-source initiatives that align with my expertise in cybersecurity, compliance, and data analytics. Stay tuned for repositories showcasing tools for incident management, compliance automation, and forensic analysis workflows.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
