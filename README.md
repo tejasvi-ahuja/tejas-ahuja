@@ -1,7 +1,7 @@
 # Hello, I'm Tejasvi 
 <a href="https://www.linkedin.com/in/tejasvi-ahuja/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A passionate cybersecurity and data privacy enthusiast with a background in digital forensics, compliance, and information security. I’m currently pursuing my M.S. in Management Information Systems at Baruch College, Zicklin School of Business.
+A passionate cybersecurity and data privacy enthusiast with a background in digital forensics, compliance, and information security. I’m currently pursuing my M.S. in Management Information Systems at Baruch College, Zicklin School of Business, City University of New York
 
 💼 My professional experience spans roles in cybersecurity consulting, forensic investigations, and data privacy operations, where I’ve developed a strong foundation in tools like FTK Imager, Wireshark, SQL, and Python.
 
