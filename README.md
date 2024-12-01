@@ -5,7 +5,7 @@ A passionate cybersecurity and data privacy enthusiast with a background in digi
 
 💼 My professional experience spans roles in cybersecurity consulting, forensic investigations, and data privacy operations, where I’ve developed a strong foundation in tools like FTK Imager, Wireshark, SQL, and Python.
 
-🌐 I’m certified in CompTIA Security+, CCNA, and Certified Fraud Examiner (in progress), with an active interest in building secure, efficient, and compliant systems
+🌐 I’m certified in CompTIA Security+, CCNA, and Certified Fraud Examiner (in progress), with an active interest in building secure, efficient, and compliant information systems
 
 ## Objective
 📌 My goal is to leverage GitHub as a platform to share projects, collaborate with like-minded professionals, and contribute to open-source initiatives that align with my expertise in cybersecurity, compliance, and data analytics. Stay tuned for repositories showcasing tools for incident management, compliance automation, and forensic analysis workflows.
